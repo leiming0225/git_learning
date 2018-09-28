@@ -9,6 +9,7 @@ add Line3
 create new branch
 create fea1
 
+<<<<<<< HEAD
 
 fix a bug
 
@@ -21,3 +22,5 @@ cooperation2
 cooperation1
 
 
+=======
+>>>>>>> parent of db38b35... fix a bug
