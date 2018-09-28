@@ -21,6 +21,4 @@ cooperation2
 
 cooperation1
 
-
-=======
->>>>>>> parent of db38b35... fix a bug
+fix a bug
